@@ -103,3 +103,34 @@ We will create two VPCs and configure them for homogeneous database migration.
 
 This completes the lab guide for homogeneous database migration using AWS DMS across VPCs.
 
+Here are the key skills gained that I can list from this project:
+
+**AWS Networking Skills:**
+VPC configuration and management.
+Setting up and configuring VPC Peering.
+Route table updates for cross-VPC traffic.
+Subnet creation and management.
+Security group configuration for database communication.
+
+**AWS Database Skills:**
+Deploying and managing RDS MySQL instances.
+Configuring MySQL on EC2 instances.
+Understanding and creating DB Subnet Groups.
+
+**AWS Migration Skills:**
+Using AWS Database Migration Service (DMS) for database replication.
+Configuring source and target database endpoints.
+Setting up and managing DMS replication instances and migration tasks.
+
+**General Cloud Skills:**
+Managing IPv4 CIDR blocks to avoid conflicts.
+Troubleshooting connectivity issues in cloud environments.
+Hands-on experience with AWS EC2, RDS, and DMS services.
+
+**Problem-Solving and Implementation Skills:**
+Enabling secure cross-VPC communication.
+End-to-end database migration planning and execution.
+Resolving challenges related to routing and private IP-based communication.
+
+These skills demonstrate expertise in AWS services, networking, database management, and cloud migrations, making them highly relevant for cloud-based roles like Data Engineer or Cloud Architect.
+
